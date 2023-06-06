@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "mi-primer-servidor",
+  "version": "1.0.0",
+  "description": "practa mi primer servidor",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dfg",
+  "license": "ISC"
+}
